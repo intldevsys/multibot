@@ -1,3 +1,8 @@
+
+<img width="615" height="761" alt="image" src="https://github.com/user-attachments/assets/a01e27cc-a682-4122-a417-02621c7a5bb1" />
+<img width="725" height="812" alt="image" src="https://github.com/user-attachments/assets/ce454716-2a04-447b-a22c-25cb88a576cf" />
+
+
 # Multibot
 
 A multi-functional Telegram bot built with Python and Pyrogram. It offers a wide range of features, from interactive chat powered by Large Language Models (LLMs) to automated channel scanning and content aggregation.
