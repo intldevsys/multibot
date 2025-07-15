@@ -2,11 +2,13 @@
 <img width="2080" height="800" alt="image" src="https://github.com/user-attachments/assets/bfa0b063-2014-4ac4-97b8-a4d8af2b2c96" />
 
 
-# Multibot
+
+
+# **Multibot**
 
 A multi-functional Telegram bot built with Python and Pyrogram. It offers a wide range of features, from interactive chat powered by Large Language Models (LLMs) to automated channel scanning and content aggregation.
 
-## Key Features
+### Key Features
 
 - **Conversational AI:** 
     - **Casual Chat Mode:** The bot can be enabled to participate in group conversations, automatically analyzing the chat style to respond in a matching tone and manner.
@@ -97,6 +99,4 @@ The bot will log in and start listening for commands and messages.
 - `/stats`: Show usage statistics for the bot.
 - `/ping`: Checks if the bot is online and responsive.
 
-## License
 
-A license file was not found for this project. Please add one to clarify how others can use, modify, and distribute your code.
