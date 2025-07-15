@@ -37,6 +37,15 @@ A multi-functional Telegram bot built with Python and Pyrogram. It offers a wide
 ## Getting Started
 
 ### Prerequisites
+NOTE: For gathering news and X posts, you will need free API keys from:
+
+> * newsapi.org
+> * content.guardianapis.com
+> * newsdata.io
+> * coinmarketcap.com
+> * x.com
+
+As well as: 
 
 - Python 3.10+
 - MongoDB database instance
