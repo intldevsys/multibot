@@ -1,6 +1,6 @@
-# Telegram Crawler & Chat Bot
+# Multibot
 
-This is a sophisticated, multi-functional Telegram bot built with Python and Pyrogram. It offers a wide range of features, from interactive chat powered by Large Language Models (LLMs) to automated channel scanning and content aggregation.
+A multi-functional Telegram bot built with Python and Pyrogram. It offers a wide range of features, from interactive chat powered by Large Language Models (LLMs) to automated channel scanning and content aggregation.
 
 ## Key Features
 
