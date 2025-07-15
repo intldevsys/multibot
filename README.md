@@ -1,6 +1,5 @@
 
-<img width="615" height="761" alt="image" src="https://github.com/user-attachments/assets/a01e27cc-a682-4122-a417-02621c7a5bb1" />
-<img width="725" height="812" alt="image" src="https://github.com/user-attachments/assets/ce454716-2a04-447b-a22c-25cb88a576cf" />
+<img width="2080" height="800" alt="image" src="https://github.com/user-attachments/assets/bfa0b063-2014-4ac4-97b8-a4d8af2b2c96" />
 
 
 # Multibot
